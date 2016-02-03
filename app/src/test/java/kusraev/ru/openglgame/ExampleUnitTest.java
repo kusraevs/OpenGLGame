@@ -12,5 +12,6 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
         assertEquals(8, 4 + 4);
+        assertEquals(10, 5 + 5);
     }
 }
