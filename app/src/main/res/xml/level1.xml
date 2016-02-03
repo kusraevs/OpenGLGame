@@ -1,0 +1,144 @@
+<?xml version="1.1" encoding='UTF-8' ?>
+<levellist>
+    <level
+            number="1"
+            defaultx="1024"
+            defaulty="768">
+        <word
+                rus="медведь"
+                eng="a bear"
+                iron="арс"
+                dig="арс">
+            <image
+                    name="bear.png"
+                    x="906"
+                    y="377"
+                    anim="disappear"/>
+            <rus name="bear_rus.mp3"/>
+            <eng name="bear_eng.mp3"/>
+            <iron name="i_01.MP3"/>
+            <dig name="bear_dig.mp3"/>
+        </word>
+        <word
+                rus="дерево"
+                eng="a tree"
+                iron="бæлас"
+                dig="бæласæ">
+            <image
+                    name="tree.png"
+                    x="211"
+                    y="0"
+                    anim="blink"/>
+            <rus name="tree_rus.mp3"/>
+            <eng name="tree_eng.mp3"/>
+            <iron name="i_02.MP3"/>
+            <dig name="tree_dig.mp3"/>
+        </word>
+
+        <word
+                rus="картофель"
+                eng="a potatoe"
+                iron="картоф"
+                dig="картоф">
+            <image
+                    name="potatoe.png"
+                    x="632"
+                    y="675"
+                    anim="disappear"/>
+            <rus name="potatoe_rus.mp3"/>
+            <eng name="potatoe_eng.mp3"/>
+            <iron name="i_04.MP3"/>
+            <dig name="potatoe_dig.mp3"/>
+        </word>
+        <word
+                rus="комната"
+                eng="a room"
+                iron="уат"
+                dig="авар">
+            <image
+                    name="room.png"
+                    x="0"
+                    y="129"
+                    anim="blink"/>
+            <rus name="room_rus.mp3"/>
+            <eng name="room_eng.mp3"/>
+            <iron name="i_05.MP3"/>
+            <dig name="room_dig.mp3"/>
+        </word>
+        <word
+                rus="яблоко"
+                eng="an apple"
+                iron="фæткъуы"
+                dig="фæткъу">
+            <image
+                    name="apple.png"
+                    x="105"
+                    y="430"
+                    anim="disappear"/>
+            <rus name="apple_rus.mp3"/>
+            <eng name="apple_eng.mp3"/>
+            <iron name="i_03.MP3"/>
+            <dig name="apple_dig.mp3"/>
+        </word>
+        <word
+                rus="платье"
+                eng="a dress"
+                iron="къаба"
+                dig="пъолци">
+            <image
+                    name="dress.png"
+                    x="422"
+                    y="131"
+                    anim="disappear"/>
+            <rus name="dress_rus.mp3"/>
+            <eng name="dress_eng.mp3"/>
+            <iron name="i_06.MP3"/>
+            <dig name="dress_dig.mp3"/>
+        </word>
+        <word
+                rus="лес"
+                eng="a forest"
+                iron="хъæд"
+                dig="гъæдæ">
+            <image
+                    name="forest.png"
+                    x="845"
+                    y="239"
+                    anim="disappear"/>
+            <rus name="forest_rus.mp3"/>
+            <eng name="forest_eng.mp3"/>
+            <iron name="i_08.MP3"/>
+            <dig name="forest_dig.mp3"/>
+        </word>
+        <word
+                rus="мужчина"
+                eng="a man"
+                iron="нæлгоймаг"
+                dig="нæлгоймаг">
+            <image
+                    name="man.png"
+                    x="296"
+                    y="207"
+                    anim="disappear"/>
+            <rus name="man_rus.mp3"/>
+            <eng name="man_eng.mp3"/>
+            <iron name="i_09.MP3"/>
+            <dig name="man_dig.mp3"/>
+        </word>
+        <word
+                rus="голова"
+                eng="a head"
+                iron="сæр"
+                dig="сæр">
+            <image
+                    name="head.png"
+                    x="133"
+                    y="257"
+                    anim="disappear"/>
+            <rus name="head_rus.mp3"/>
+            <eng name="head_eng.mp3"/>
+            <iron name="i_10.MP3"/>
+            <dig name="head_dig.mp3"/>
+        </word>
+    </level>
+</levellist>
