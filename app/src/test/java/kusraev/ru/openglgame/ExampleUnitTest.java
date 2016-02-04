@@ -13,5 +13,8 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
         assertEquals(8, 4 + 4);
         assertEquals(10, 5 + 5);
+        assertEquals(12, 6 + 6);
+        assertEquals(14, 7 + 7);
+        assertEquals(16, 8 + 8);
     }
 }
